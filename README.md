@@ -24,3 +24,6 @@ This project analyzes Superstore sales data using Microsoft Excel and Pivot Tabl
 
 ## Author
 Pala Prajwal
+## Dashboard
+
+![Dashboard](dashboard.png)
